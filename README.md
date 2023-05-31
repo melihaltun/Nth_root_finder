@@ -1,9 +1,9 @@
 # Nth_root_finder
-Finds the n_th root of a rational number using Newton's method
+Finds the n_th root of a rational number using Newton's method:
 
 
 Matlab / Octave implementation of a root finding algorithm using Newton's method.
-Given a number x and an a root n, the code returns the nth root of the given number. Here are a couple of examples:
+Given a number x and an a root n, the code returns the nth root of the given number. Below are a couple of examples:
 
    findRoot(-128,7)
 
