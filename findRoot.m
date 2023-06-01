@@ -11,6 +11,8 @@ else
         nth_rt_neg1 = cos(pi/n) + 1i * sin(pi/n);
         x = nth_rt_neg1*(findRoot(-a, n));
         return
+    elseif(a<0 && mod(n,1) ~= 0)
+        error('Solving fractional exponents for negative bases is not implemented yet.')
     end
     if (n<0)
         n = n*(-1);
