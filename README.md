@@ -11,7 +11,7 @@ The code can handle complex numbers and even powers of negative numbers as well,
 
 ![image](https://github.com/melihaltun/Nth_root_finder/assets/40482921/a3e5462c-2ad9-4c7c-ae1e-22d18c258d60)
 
-![image](https://github.com/melihaltun/Nth_root_finder/assets/40482921/e2f1c8f5-e3f1-4ff3-80d0-2d1057a71d26)
+![image](https://github.com/melihaltun/Nth_root_finder/assets/40482921/f18601fb-b62e-46a6-9818-168b66e33dd4)
 
 
 Below are a few examples:
@@ -56,9 +56,3 @@ findRoot(-81,4)
 ans =
 
            2.12132034355967 +      2.12132034355967i
-           
-ans^4
-
-ans =
-
-          -81.0000000000036 +  3.19744231092052e-14i
