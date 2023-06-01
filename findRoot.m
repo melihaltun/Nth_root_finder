@@ -7,6 +7,11 @@ tolr = 0.00001;
 if (n == 0)
     x=1;   % a^0 = 1 for all a
 else
+    if (a<0 && mod(n,2) == 0) 
+        nth_rt_neg1 = cos(pi/n) + 1i * sin(pi/n);
+        x = nth_rt_neg1*(findRoot(-a, n));
+        return
+    end
     if (n<0)
         n = n*(-1);
         a = 1/a;  % invert base for negative powers
