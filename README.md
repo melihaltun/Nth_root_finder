@@ -14,15 +14,15 @@ The code can handle complex numbers and even powers of negative numbers as well,
 ![image](https://github.com/melihaltun/Nth_root_finder/assets/40482921/f18601fb-b62e-46a6-9818-168b66e33dd4)
 
 
-Below are a few examples:
+Additional examples:
 
-   findRoot(-128,7)
+\>\> findRoot(-128,7)
 
 ans =
 
    -2.0000
    
-findRoot(128,-7)
+\>\> findRoot(128,-7)
 
 ans =
 
