@@ -16,20 +16,20 @@ The code can handle complex numbers and even powers of negative numbers as well,
 
 Additional examples:
 
-\>\>findRoot(-128,7)
+\>\> findRoot(-128,7)
 
 ans =
 
        -2.0000
    
-\>\>findRoot(128,-7)
+\>\> findRoot(128,-7)
 
 ans =
 
        0.5000
 
 
-\>\>5^2.357
+\>\> 5^2.357
 
 ans =
 
@@ -43,28 +43,28 @@ ans =
     5.0000
 
 
-findRoot(-1,2)
+\>\> findRoot(-1,2)
 
 ans =
 
        6.12323399573677e-17 +                     1i
        
 
-findRoot(-1,4)
+\>\> findRoot(-1,4)
 
 ans =
 
           0.707106781186548 +     0.707106781186547i
           
 
-findRoot(-81,4)
+\>\> findRoot(-81,4)
 
 ans =
 
            2.12132034355967 +      2.12132034355967i
 
 
-findRoot(-27,3)
+\>\> findRoot(-27,3)
 
 ans =
 
