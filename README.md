@@ -20,20 +20,20 @@ Additional examples:
 
 ans =
 
-   -2.0000
+       -2.0000
    
 \>\>findRoot(128,-7)
 
 ans =
 
-   0.5000
+       0.5000
 
 
 \>\>5^2.357
 
 ans =
 
-   44.4091
+       44.4091
 
 
 \>\> findRoot(ans,2.357)
