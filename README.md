@@ -21,6 +21,12 @@ Below are a few examples:
 ans =
 
    -2.0000
+   
+findRoot(128,-7)
+
+ans =
+
+   0.5000
 
 
    5^2.357
