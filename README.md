@@ -16,27 +16,27 @@ The code can handle complex numbers and even powers of negative numbers as well,
 
 Additional examples:
 
-\>\> findRoot(-128,7)
+\>\>findRoot(-128,7)
 
 ans =
 
    -2.0000
    
-\>\> findRoot(128,-7)
+\>\>findRoot(128,-7)
 
 ans =
 
    0.5000
 
 
-   5^2.357
+\>\>5^2.357
 
 ans =
 
    44.4091
 
 
-   findRoot(ans,2.357)
+\>\> findRoot(ans,2.357)
 
 ans =
 
